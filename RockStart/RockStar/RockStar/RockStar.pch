@@ -1,0 +1,28 @@
+//
+//  RockStar.pch
+//  RockStar
+//
+//  Created by Patrice Roux on 15/09/2016.
+//  Copyright © 2016 Trimech Sedki. All rights reserved.
+//
+
+#ifndef RockStar_pch
+#define RockStar_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "RSSManager.h"
+#import "Reachability.h"
+#import <UIKit/UIKit.h>
+#import "Utilities.h"
+#import "SVProgressHUD.h"
+#import "PlistManager.h"
+
+
+#define BASE_URL @"http://54.72.181.8/yolo"
+#define allTrim( object ) [object stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet] ]
+
+
+
+
+#endif /* RockStar_pch */

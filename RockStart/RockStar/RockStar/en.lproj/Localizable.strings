@@ -1,0 +1,24 @@
+/* 
+  NSLocalizedString.strings
+  RockStar
+
+  Created by Patrice Roux on 15/09/2016.
+  Copyright © 2016 Trimech Sedki. All rights reserved.
+*/
+
+
+"RockStar_Title" = "Rockstars";
+"Connection_Error_Message" = "Please verify your internet connection.";
+"Connection_Error_Title" = "Connection Required:";
+"Ok" = "Ok";
+"Yes" = "Yes";
+"Server_Connection_error" = "Cannot connect To Server";
+"Contacts_empty" = "RockStars List Empty";
+"Delete_message" = "You really want to delete this contact ?";
+"Cancel" = "Cancel";
+
+"BookMarks_Title" = "Bookmarks";
+"Profile_Title" = "Profile";
+
+"Profile_Updated" = "Profile Successfully Updated";
+"CAMERA_ERRROR" = "Camera not supported in your device";

@@ -1,0 +1,12 @@
+/* 
+  NSLocalizedString.strings
+  RockStar
+
+  Created by Patrice Roux on 15/09/2016.
+  Copyright © 2016 Trimech Sedki. All rights reserved.
+*/
+
+"RockStar_Title" = "Rockstars";
+"Connection_Error_Message" = "Please verify your internet connection.";
+"Connection_Error_Title" = "Connection Required:";
+"Ok" = "Ok";
